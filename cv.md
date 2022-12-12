@@ -16,6 +16,7 @@ I want to improve my programming skills, because very interested in it.
 1. Git and GitHub (basics)
 2. HTML 
 3. CSS 
+4. Figma
 
 ## Work Experience
 None...*yet*!
